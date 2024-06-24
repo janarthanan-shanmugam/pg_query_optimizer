@@ -1,3 +1,5 @@
+
+
 # PgQueryOptimizer
 
 ## Description: 
@@ -138,3 +140,5 @@ The gem is available as open source under the terms of the [MIT License](https:/
 ## Code of Conduct
 
 Everyone interacting in the PgQueryOptimizer project's codebases, issue trackers, chat rooms and mailing lists is expected to follow the [code of conduct](https://github.com/[USERNAME]/pg_query_optimizer/blob/master/CODE_OF_CONDUCT.md).
+
+### Note: The optimizer is specific for large data base and complex queries, It will perform very well for larger data set and complex queries, for smaller database / simple queries the performance will be similar compared to previous performance of those simple queries
